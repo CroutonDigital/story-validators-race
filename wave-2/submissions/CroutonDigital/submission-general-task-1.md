@@ -1,1 +1,1 @@
-https://github.com/CroutonDigital/story-protocol-tools/tree/main
+https://github.com/CroutonDigital/story-protocol-tools/
